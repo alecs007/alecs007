@@ -1,16 +1,16 @@
-## Hi there 👋
+## Welcome to my GitHub profile!emoji 
 
-<!--
-**alecs007/alecs007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Alecs007**, a beginner developer passionate about web development and creating meaningful projects.  
 
-Here are some ideas to get you started:
+## 🔍 About Me  
+- 🛠 Learning **React.js** and improving my **JavaScript** skills.  
+- 🎨 Experienced with **HTML**, **CSS/SCSS**, and responsive design.  
+- 💻 Projects:  
+  - **[Julex](https://github.com/alecs007/julex)**: A photo gallery website made for my girlfriend.  
+  - **[Proiect Roma](https://alecs007.github.io)**: A portfolio showcasing Rome's monuments.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect  
+- **Website**: [alecs007.github.io](https://alecs007.github.io)
+- **Mail**: alexro007@yahoo.com
+
+
