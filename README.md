@@ -2,7 +2,7 @@
 
 I'm **Alex Rotar**, a beginner developer passionate about web development and creating meaningful projects.  
 
-## 🔍 About Me  
+## 🔎 About Me  
 - 🛠 Learning **React.js** and improving my **JavaScript** skills.  
 - 🎨 Experienced with **HTML**, **CSS/SCSS**, and responsive design.  
 - 💻 Some of my projects:  
