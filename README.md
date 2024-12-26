@@ -1,6 +1,6 @@
 ## Welcome to my GitHub profile!
 
-I'm **Alecs007**, a beginner developer passionate about web development and creating meaningful projects.  
+I'm **Alex Rotar**, a beginner developer passionate about web development and creating meaningful projects.  
 
 ## 🔍 About Me  
 - 🛠 Learning **React.js** and improving my **JavaScript** skills.  
