@@ -1,4 +1,4 @@
-## Welcome to my GitHub profile!emoji 
+## Welcome to my GitHub profile!
 
 I'm **Alecs007**, a beginner developer passionate about web development and creating meaningful projects.  
 
