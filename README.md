@@ -3,8 +3,8 @@
 I'm **Alex Rotar**, a beginner developer passionate about web development and creating meaningful projects.  
 
 ## 🔎 About Me  
-- ✔️ Experienced with **React**, **CSS/SCSS**, **JavaScript**, **API integration**, and **modern web development practices**.
-- 🛠 Learning **React.js** and improving my **JavaScript** skills.    
+- ✔️ Experienced with **React.js**, **CSS/SCSS**, **JavaScript**, **API integration**, and **modern web development practices**.
+- 🛠  Learning backend technologies such as Node.js, Express, and databases.    
 - 💻 Some of my projects:  
   - **[Weatherly](https://github.com/alecs007/weatherly)** : A weather app that delivers real-time updates.
   - **[randoms.fun](https://github.com/alecs007/randoms.fun)** : Is a fast and easy random number generator.
