@@ -3,7 +3,7 @@
 I'm **Alex Rotar**, a beginner developer passionate about web development and creating meaningful projects.  
 
 ## 🔎 About Me  
-- ✔️ Experienced with React, responsive design, CSS/SCSS, JavaScript, API integration, and modern web development practices.
+- ✔️ Experienced with **React**, **CSS/SCSS**, **JavaScript**, **API integration**, and **modern web development practices**.
 - 🛠 Learning **React.js** and improving my **JavaScript** skills.    
 - 💻 Some of my projects:  
   - **[Weatherly](https://github.com/alecs007/weatherly)** : A weather app that delivers real-time updates.
