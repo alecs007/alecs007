@@ -1,6 +1,6 @@
 ## Welcome to my GitHub profile!
 
-I'm **Alex Rotar**, a beginner developer passionate about web development and creating meaningful projects.  
+I'm ***Alex Rotar***, a beginner developer passionate about web development and creating meaningful projects.  
 
 ## 🔎 About Me  
 - ✔️ Experienced with **HTML**, **CSS/SCSS**, and responsive design.
