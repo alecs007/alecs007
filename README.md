@@ -1,4 +1,4 @@
-## Welcome to my GitHub profile! <img src="[./path/to/animated-emoji.gif](https://github.com/user-attachments/assets/2c3562bb-355c-4a49-abea-150dccff3df5)" width="20" height="20" alt="emoji" />
+## Welcome to my GitHub profile! 
 
 
 
