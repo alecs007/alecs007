@@ -1,4 +1,4 @@
-## <h1 font-size="70">Welcome to my GitHub profile!</h1> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW9uNTJienIxazFxb244eWlkdWdqeTNydW8zcWlpdXhkeXRlZjRkMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0TtX2qqpxp3pIafzio/giphy.gif" alt="emoji" height="40" width="40"/>
+## <h1 font-size="170">Welcome to my GitHub profile!</h1> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW9uNTJienIxazFxb244eWlkdWdqeTNydW8zcWlpdXhkeXRlZjRkMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0TtX2qqpxp3pIafzio/giphy.gif" alt="emoji" height="40" width="40"/>
 
 I'm **Alex Rotar**, a beginner developer passionate about web development and creating meaningful projects.  
 
