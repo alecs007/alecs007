@@ -1,4 +1,5 @@
-## Welcome to my GitHub profile!
+## Welcome to my GitHub profile! ![512 (1)](https://github.com/user-attachments/assets/2c3562bb-355c-4a49-abea-150dccff3df5)
+
 
 
 
