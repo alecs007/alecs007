@@ -1,4 +1,4 @@
-## Welcome to my GitHub profile! <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHN1M3dieDE5ZjI5ZWVnY2h3MTJ2dnFncTE3OW1va29kYnh5bDN1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/O7idAw0IBgPWB5pMhT/giphy.gif" width:"100" />
+## Welcome to my GitHub profile! <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHN1M3dieDE5ZjI5ZWVnY2h3MTJ2dnFncTE3OW1va29kYnh5bDN1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/O7idAw0IBgPWB5pMhT/giphy.gif" width:"20" height="20" alt="emoji"/>
 
 
 
