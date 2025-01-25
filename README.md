@@ -1,4 +1,5 @@
-## Welcome to my GitHub profile!
+## Welcome to my GitHub profile!![image](https://github.com/user-attachments/assets/d646b335-99a5-47c0-a5dd-5054a2f77854)
+
 
 
 I'm **Alex Rotar**, a beginner developer passionate about web development and creating meaningful projects.  
