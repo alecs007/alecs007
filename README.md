@@ -1,4 +1,4 @@
-# Welcome to my GitHub! <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjN3bzd4OGhkNXh0anBzbXh6N3VzZ3JyNWZ4cm1ycTJ0dDA1ZDI0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0TtX2qqpxp3pIafzio/giphy.gif" alt="emoji" height="45" width="45" />
+## Welcome to my GitHub! <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjN3bzd4OGhkNXh0anBzbXh6N3VzZ3JyNWZ4cm1ycTJ0dDA1ZDI0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0TtX2qqpxp3pIafzio/giphy.gif" alt="emoji" height="40" width="40" />
 
 I'm **Alex Rotar**, a beginner developer passionate about web development and creating meaningful projects.  
 
