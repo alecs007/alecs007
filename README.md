@@ -12,7 +12,7 @@ I'm **Alex Rotar**, a beginner developer passionate about web development and cr
 
 ## 🌐 Connect  
 - 🔗 **Website** : [alecs007.github.io](https://alecs007.github.io)
-- 📧 **Mail** : alexro007@yahoo.com
+- 📧 **Email** : alexro007@yahoo.com
 - 💬 Open to **collaborations**, **new projects**, and **learning opportunities!**
 
 
