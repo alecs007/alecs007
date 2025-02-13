@@ -11,7 +11,7 @@ I'm **Alex Rotar**, a beginner developer passionate about web development and cr
   - **[Julex](https://github.com/alecs007/julex)** : Photo gallery website made for my girlfriend.
 
 ## 🌐 Connect  
-- **Website** : [alecs007.github.io](https://alecs007.github.io)
-- **Mail** : alexro007@yahoo.com
+- 🌐 **Website** : [alecs007.github.io](https://alecs007.github.io)
+- 📧 **Mail** : alexro007@yahoo.com
 
 
