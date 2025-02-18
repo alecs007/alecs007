@@ -1,4 +1,4 @@
-## Welcome to my GitHub!1
+## Welcome to my GitHub!
 
 I'm **Alex Rotar**, a beginner developer passionate about web development and creating meaningful projects.  
 
