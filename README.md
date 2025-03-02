@@ -5,9 +5,9 @@ I'm **Alex Rotar**, a beginner developer passionate about web development and cr
 ## 🔎 About Me  
 - ✔️ Experienced with **React.js**, **CSS/SCSS**, **JavaScript**, **API integration**, and **modern web development practices**.
 - 🛠  Learning backend technologies such as **Node.js**, **Express.js**, and **databases**.    
-- 💻 Some of my projects :  
-  - **[Weatherly](https://github.com/alecs007/weatherly)** : Weather app that delivers real-time updates.
+- 💻 Some of my projects :
   - **[FoodHub](https://github.com/alecs007/FoodHub)** : A platform to explore, submit, and save recipes.
+  - **[Weatherly](https://github.com/alecs007/weatherly)** : Weather app that delivers real-time updates.
   - **[randoms.fun](https://github.com/alecs007/randoms.fun)** : Fast and intuitive random number generator.
 
 ## 🌐 Connect  
