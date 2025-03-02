@@ -7,9 +7,8 @@ I'm **Alex Rotar**, a beginner developer passionate about web development and cr
 - 🛠  Learning backend technologies such as **Node.js**, **Express.js**, and **databases**.    
 - 💻 Some of my projects :  
   - **[Weatherly](https://github.com/alecs007/weatherly)** : Weather app that delivers real-time updates.
+  - **[FoodHub](https://github.com/alecs007/FoodHub)** : A platform to explore, submit, and save recipes.
   - **[randoms.fun](https://github.com/alecs007/randoms.fun)** : Fast and intuitive random number generator.
-  - **[Capitalizer](https://github.com/alecs007/capitalizer)** : Geography quiz game testing knowledge of world capitals.
-  - **[Julex](https://github.com/alecs007/julex)** : Photo gallery website made for my girlfriend.
 
 ## 🌐 Connect  
 - 🔗 **Website** : [alecs007.github.io](https://alecs007.github.io)
