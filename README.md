@@ -1,6 +1,6 @@
 ## Welcome to my GitHub!
 
-I'm **Alex Rotar**, a developer from Romania, passionate about web development and creating meaningful projects.  
+I'm **Alex Rotar**, a beginner developer passionate about web development and creating meaningful projects.  
 
 ## 🔎 About Me  
 - ✔️ Experienced with **React.js**, **CSS/SCSS**, **JavaScript**, **API integration**, and **modern web development practices**.
