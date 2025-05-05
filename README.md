@@ -9,8 +9,8 @@ I'm **Alex Rotar**, a developer from  Romania passionate about web development a
   - **[Capitalizer](https://github.com/alecs007/capitalizer)** : Guess the capital browser game.
   - 
 ## Technologies i use:
-https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white
-https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
 
 
 
