@@ -8,7 +8,7 @@ I'm **Alex Rotar**, a developer from  Romania passionate about web development a
 - 💻 Some of my projects :
   - **[FoodHub](https://github.com/alecs007/FoodHub)** : A platform to explore, submit, and save recipes.
   - **[Weatherly](https://github.com/alecs007/weatherly)** : Weather app that delivers real-time updates.
-  - **[randoms.fun](https://github.com/alecs007/randoms.fun)** : Fast and intuitive random number generator.
+  - **[Capitalizer](https://github.com/alecs007/capitalizer)** : Guess the capital browser game.
 
 ## 🌐 Connect  
 - 🔗 **Website** : [alecs007.github.io](https://alecs007.github.io)
