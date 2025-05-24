@@ -3,7 +3,7 @@
 I'm **Alex Rotar**, a developer from  Romania passionate about web development and creating meaningful projects.  
 
 ##  🔎 Some of my projects :
-  - **[FoodHub](https://github.com/alecs007/FoodHub)** : A platform to explore, submit, and save recipes.
+  - **[FoodHub](https://github.com/alecs007/FoodHub)** : A platform to explore, submit, and share recipes.
   - **[Weatherly](https://github.com/alecs007/weatherly)** : Weather app that delivers real-time updates.
   - **[Capitalizer](https://github.com/alecs007/capitalizer)** : Guess the capital browser game.
     
