@@ -1,11 +1,6 @@
  ## Welcome to my GitHub!
 
 I'm **Alex Rotar**, a developer from  Romania passionate about web development and creating meaningful projects.  
-
-##  🔎 Some of my projects :
-  - **[FoodHub](https://github.com/alecs007/FoodHub)** : A platform to explore, submit, and share recipes.
-  - **[Weatherly](https://github.com/alecs007/weatherly)** : Weather app that delivers real-time updates.
-  - **[Capitalizer](https://github.com/alecs007/capitalizer)** : Guess the capital browser game.
     
 ##  ⚙️ Technologies i worked with:
 ![NextJS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
