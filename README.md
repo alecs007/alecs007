@@ -1,6 +1,6 @@
  ## Welcome to my GitHub!
 
-I'm **Alex Rotar**, a developer from  Romania passionate about web development and creating meaningful projects.  
+I'm **Alex Rotar**, a developer from Romania passionate about Web Development and DevOps practices, focusing on building meaningful and reliable projects.
     
 ##  ⚙️ Technologies i worked with:
 ![NextJS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
