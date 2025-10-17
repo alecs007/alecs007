@@ -12,7 +12,7 @@ I'm **Alex Rotar**, a developer from Romania passionate about Web Development an
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
@@ -24,7 +24,7 @@ I'm **Alex Rotar**, a developer from Romania passionate about Web Development an
 
 
 ## 🌐 Connect  
-- 🔗 **Website** : [alecs007.github.io](https://alecs007.github.io)
+- 🔗 **Website** : [rotisweb.ro](https://rotisweb.ro)
 - 📧 **Email** : alexro007@yahoo.com
 - 💬 Open to **collaborations**, **new projects**, and **learning opportunities!**
 
