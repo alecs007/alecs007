@@ -24,7 +24,7 @@ I'm **Alex Rotar**, a developer from Romania passionate about Web Development an
 
 
 ## 🌐 Connect  
-- 🔗 **Website** : [rotisweb.ro](https://rotisweb.ro)
+- 🔗 **Website** : [www.rotisweb.ro](https://rotisweb.ro)
 - 📧 **Email** : alexro007@yahoo.com
 - 💬 Open to **collaborations**, **new projects**, and **learning opportunities!**
 
