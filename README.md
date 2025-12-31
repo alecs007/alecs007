@@ -26,7 +26,7 @@ I’m **Alex Rotar**, a web enthusiast from Romania, driven and ambitious in dev
 
 
 
-## 🌐 Connect  
+## 🌐 Connect with me:
 - 🔗 **Website** : [www.rotisweb.ro](https://rotisweb.ro)
 - 📧 **Email** : contact@rotisweb.ro
 - 💬 Open to **collaborations**, **new projects**, and **learning opportunities!**
