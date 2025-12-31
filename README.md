@@ -1,8 +1,8 @@
  ## Welcome to my GitHub!
 
-I'm **Alex Rotar**, a developer from Romania passionate about Web Development and DevOps practices, focusing on building meaningful and reliable projects.
+I’m **Alex Rotar**, a web enthusiast from Romania, driven and ambitious in developing reliable digital solutions.
     
-##  ⚙️ Technologies i worked with:
+##  ⚙️ Technologies i enjoy working with:
 ![NextJS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt&logoColor=#00DC82)
@@ -28,7 +28,7 @@ I'm **Alex Rotar**, a developer from Romania passionate about Web Development an
 
 ## 🌐 Connect  
 - 🔗 **Website** : [www.rotisweb.ro](https://rotisweb.ro)
-- 📧 **Email** : alexro007@yahoo.com
+- 📧 **Email** : contact@rotisweb.ro
 - 💬 Open to **collaborations**, **new projects**, and **learning opportunities!**
 
 
