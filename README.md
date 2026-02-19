@@ -1,8 +1,8 @@
-<img src="https://res.cloudinary.com/dqyq1oiwi/image/upload/v1771503359/github-banner_t2bmqo.png" w-full h-auto />
+<img src="https://res.cloudinary.com/dqyq1oiwi/image/upload/v1771503866/github-banner_tkkud6.png" w-full h-auto />
  
  ## Welcome to my GitHub!
 
-I’m **Alex Rotar**, a web enthusiast from Romania, driven and ambitious in developing reliable digital solutions.
+I’m **Alex Rotar**, a web enthusiast from Romania, driven and ambitious in developing reliable digital solutions. I started my journey as Roti’s Web in 2025, and since then I’ve been constantly learning, improving, and growing through experience.
     
 ## ⚙️ Technologies i enjoy working with
 ![NextJS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
