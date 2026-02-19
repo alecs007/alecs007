@@ -1,3 +1,5 @@
+<img src="https://res.cloudinary.com/dqyq1oiwi/image/upload/v1771503359/github-banner_t2bmqo.png" w-full h-auto />
+ 
  ## Welcome to my GitHub!
 
 I’m **Alex Rotar**, a web enthusiast from Romania, driven and ambitious in developing reliable digital solutions.
